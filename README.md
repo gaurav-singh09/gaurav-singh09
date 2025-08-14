@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**gaurav-singh09/gaurav-singh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Gaurav Singh 👋
 
-Here are some ideas to get you started:
+I’m a **2nd-year B.Tech student** in Engineering & Computational Mechanics at **NIT Jamshedpur**.  
+Right now, my main focus is building solid skills in **coding, problem-solving, and core engineering concepts** — while working on projects that connect the two.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# What I’m working on
+- Strengthening my **DSA skills in C++** through regular practice on LeetCode & Codeforces.
+- Learning **Python** for data analysis and machine learning.
+- Exploring how **AI/ML can be applied in real life problems**
+- Building small but meaningful projects and sharing them here.
+
+---
+
+ 🛠 Tech & Tools I Use
+- **Languages:** C++, Python  
+- **Libraries & Tools:** Pandas
+
+
+#📬 Let’s Connect
+- **LinkedIn:www.linkedin.com/in/gaurav-singh-1ba165339**  
+- **Email:gauravsingh125250@gmail.com**
+
+
+*Born to Lead*
+-
+*Always learning. Always building.*
