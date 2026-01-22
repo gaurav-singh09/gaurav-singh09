@@ -30,15 +30,16 @@ Currently, My main focus is building solid skills in **coding, problem-solving, 
 
 
 #📬 Let’s Connect
-- **LinkedIn:www.linkedin.com/in/gaurav-singh-1ba165339**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-singh-1ba165339)
+- **LinkedIn:www.linkedin.com/in/gaurav-singh-1ba165339**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-singh-1ba165339)
 
-- **Email:gauravsingh125250@gmail.com**[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh125250@gmail.com)
+- **Email:gauravsingh125250@gmail.com** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh125250@gmail.com)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav-singh09&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gaurav-singh09&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=gaurav-singh09&theme=tokyonight&cache_seconds=86400)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-singh09&layout=compact&theme=tokyonight)
 
