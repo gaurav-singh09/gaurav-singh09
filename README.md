@@ -30,8 +30,10 @@ Currently, My main focus is building solid skills in **coding, problem-solving, 
 
 
 #📬 Let’s Connect
-- **LinkedIn:www.linkedin.com/in/gaurav-singh-1ba165339**  
-- **Email:gauravsingh125250@gmail.com**
+- **LinkedIn:www.linkedin.com/in/gaurav-singh-1ba165339**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+- **Email:gauravsingh125250@gmail.com**[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
 
 
 *Born to Lead*
