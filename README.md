@@ -34,6 +34,27 @@ Currently, My main focus is building solid skills in **coding, problem-solving, 
 
 - **Email:gauravsingh125250@gmail.com** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh125250@gmail.com)
 
+- ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonipandey-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipandey-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=salonipandey-dev&theme=tokyonight&hide_border=true" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonipandey-dev&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="100%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav-singh09&show_icons=true&theme=tokyonight)
