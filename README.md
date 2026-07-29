@@ -1,7 +1,7 @@
 
 # Hey, I'm Gaurav Singh 👋
 
-I’m a **2nd-year B.Tech student** in Engineering & Computational Mechanics at **NIT Jamshedpur**.  
+I’m a **3rd-year B.Tech student** in Engineering & Computational Mechanics at **NIT Jamshedpur**.  
 Currently, My main focus is building solid skills in **coding, problem-solving, and core engineering concepts** — while working on projects that connect the two.
 
 ---
